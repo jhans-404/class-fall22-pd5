@@ -16,35 +16,35 @@ Primary organizational hub for those enrolled in this course.
   - Text: https://books.trinket.io/thinkjava2/
 
 ## Our work repos
-- Hamid
+- [Hamid](https://github.com/fdrHighSchool/mp1-work-Hamid188)
 - Michael
-- Derek
+- [Derek](https://github.com/fdrHighSchool/mp1-work-DDJ16)
 - Sofia
 - Xin
 - Nedjy
-- Carlemmanuel
+- [Carlemmanuel](https://github.com/fdrHighSchool/mp1-work-Carleveillard1)
 - Brandon
-- David
+- [David G.](https://github.com/fdrHighSchool/mp1-work-DavidG444)
 - Raphiel
-- Andy
+- [Andy](https://github.com/fdrHighSchool/mp1-work-AndyH20)
 - Monssef
-- Carina
+- [Carina](https://github.com/fdrHighSchool/mp1-work-carinajin)
 - Olivia
 - Ying Shan
 - Yu Xin
 - Jun Yan
 - Miledys
-- Harry M.
+- [Harry M.](https://github.com/fdrHighSchool/mp1-work-HarryMperiod5)
 - James
 - Lisa
 - Jose
-- Aliaksandr
-- Azizjon
+- [Aliaksandr](https://github.com/fdrHighSchool/mp1-work-aliaksandrpenkevich)
+- [Azizjon](https://github.com/fdrHighSchool/mp1-work-Azizjons2)
 - Justin
 - Ahad
-- David
-- Inamm
+- [David T.](https://github.com/fdrHighSchool/mp1-work-davidt389)
+- [Inamm](https://github.com/fdrHighSchool/mp1-work-INAMMullah)
 - Sebastian
 - Bogdan
-- Harry W.
+- [Harry W.](https://github.com/fdrHighSchool/mp1-work-Harryw14)
 - Zhen Xin
