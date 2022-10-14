@@ -17,34 +17,34 @@ Primary organizational hub for those enrolled in this course.
 
 ## Our work repos
 - [Hamid](https://github.com/fdrHighSchool/mp1-work-Hamid188)
-- Michael
+- [Michael](https://github.com/fdrHighSchool/mp1-work-ProTERMINTOR)
 - [Derek](https://github.com/fdrHighSchool/mp1-work-DDJ16)
-- Sofia
-- Xin
-- Nedjy
+- [Sofia](https://github.com/fdrHighSchool/mp1-work-Sofia-elena)
+- [Xin](https://github.com/fdrHighSchool/mp1-work-TheDXport)
+- [Nedjy](https://github.com/fdrHighSchool/mp1-work-NejiHyu)
 - [Carlemmanuel](https://github.com/fdrHighSchool/mp1-work-Carleveillard1)
 - Brandon
 - [David G.](https://github.com/fdrHighSchool/mp1-work-DavidG444)
-- Raphiel
+- [Raphiel](https://github.com/fdrHighSchool/mp1-work-RaphielG)
 - [Andy](https://github.com/fdrHighSchool/mp1-work-AndyH20)
-- Monssef
+- [Monssef](https://github.com/fdrHighSchool/mp1-work-monssefi)
 - [Carina](https://github.com/fdrHighSchool/mp1-work-carinajin)
-- Olivia
-- Ying Shan
-- Yu Xin
-- Jun Yan
-- Miledys
+- [Olivia](https://github.com/fdrHighSchool/mp1-work-Olivial62)
+- [Ying Shan](https://github.com/fdrHighSchool/mp1-work-YingShan1118)
+- [Yu Xin](https://github.com/fdrHighSchool/mp1-work-CombleKing)
+- [Jun Yan](https://github.com/fdrHighSchool/mp1-work-NotJunyan)
+- [Miledys](https://github.com/fdrHighSchool/mp1-work-MiledysLuna)
 - [Harry M.](https://github.com/fdrHighSchool/mp1-work-HarryMperiod5)
-- James
-- Lisa
-- Jose
+- [James](https://github.com/fdrHighSchool/mp1-work-JamesM134)
+- [Lisa](https://github.com/fdrHighSchool/mp1-work-LisaNg22)
+- [Jose](https://github.com/fdrHighSchool/mp1-work-COJose22)
 - [Aliaksandr](https://github.com/fdrHighSchool/mp1-work-aliaksandrpenkevich)
 - [Azizjon](https://github.com/fdrHighSchool/mp1-work-Azizjons2)
-- Justin
+- [Justin](https://github.com/fdrHighSchool/mp1-work-JustInTime24)
 - Ahad
 - [David T.](https://github.com/fdrHighSchool/mp1-work-davidt389)
 - [Inamm](https://github.com/fdrHighSchool/mp1-work-INAMMullah)
-- Sebastian
+- [Jess](https://github.com/fdrHighSchool/mp1-work-FearlessGallant)
 - Bogdan
 - [Harry W.](https://github.com/fdrHighSchool/mp1-work-Harryw14)
-- Zhen Xin
+- [Zhen Xin](https://github.com/fdrHighSchool/mp1-work-zhenxinzhangs)
