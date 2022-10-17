@@ -27,4 +27,25 @@ public class UserName {
     return n.substring(0, 1);
   } // end initialize method
 
+  /*
+   * Name: generatePassword
+   * Purpose: send back a random String of numbers, upper/lower letters
+   * Input: length of password (int)
+   * Return: String
+   */
+  public static String generatePassword(int length) {
+    String password;
+
+    // generate a random number
+    // 65 - 90 capital letter
+    // 97 - 122 lower case
+    // 33 - 47 special symbols
+
+    return password;
+  } // end generatePassword method
+
+
+
+
+
 } // end class
