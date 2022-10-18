@@ -14,6 +14,7 @@ public class UserName {
     // test output
     System.out.println("Hello " + getInitial(firstName) + "." + getInitial(lastName) + ".");
 
+    generatePassword(8);
     s.close();
   } // end main method
 
@@ -40,7 +41,9 @@ public class UserName {
     // 65 - 90 capital letter
     // 97 - 122 lower case
     // 33 - 47 special symbols
-
+    int rand = (int)(Math.random()*(90-65+1) + 65);
+    char c = (char)rand;
+    System.out.println(rand + " " + c);
     // convert the int ---> character c =(char)i;
 
     // add the char to the password String
