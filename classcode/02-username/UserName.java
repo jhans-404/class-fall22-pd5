@@ -34,15 +34,25 @@ public class UserName {
    * Return: String
    */
   public static String generatePassword(int length) {
-    String password;
+    String password = "";
 
     // generate a random number
     // 65 - 90 capital letter
     // 97 - 122 lower case
     // 33 - 47 special symbols
 
+    // convert the int ---> character c =(char)i;
+
+    // add the char to the password String
+
     return password;
   } // end generatePassword method
+
+
+
+
+
+
 
 
 
