@@ -37,16 +37,23 @@ public class UserName {
   public static String generatePassword(int length) {
     String password = "";
 
-    // generate a random number
-    // 65 - 90 capital letter
-    // 97 - 122 lower case
-    // 33 - 47 special symbols
-    int rand = (int)(Math.random()*(90-65+1) + 65);
-    char c = (char)rand;
-    System.out.println(rand + " " + c);
-    // convert the int ---> character c =(char)i;
+    for(int i = 0; i < length; i++) {
+      // generate a random number
+      // 65 - 90 capital letter
+      // 97 - 122 lower case
+      // 33 - 47 special symbols
+      int rand = (int)(Math.random()*(90-65+1) + 65);
 
-    // add the char to the password String
+      // convert the int ---> character c =(char)i;
+      char c = (char)rand;
+      System.out.println(rand + " " + c);
+      
+      // add the char to the password String
+
+
+    } // end for loop
+
+
 
     return password;
   } // end generatePassword method
