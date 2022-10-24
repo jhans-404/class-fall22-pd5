@@ -43,10 +43,10 @@ Primary organizational hub for those enrolled in this course.
 - [Aliaksandr](https://github.com/fdrHighSchool/mp1-work-aliaksandrpenkevich)
 - [Azizjon](https://github.com/fdrHighSchool/mp1-work-Azizjons2)
 - [Justin](https://github.com/fdrHighSchool/mp1-work-JustInTime24)
-- Ahad
+- [Ahad](https://github.com/fdrHighSchool/mp1-work-AhadTasaddaq)
 - [David T.](https://github.com/fdrHighSchool/mp1-work-davidt389)
 - [Inamm](https://github.com/fdrHighSchool/mp1-work-INAMMullah)
 - [Jess](https://github.com/fdrHighSchool/mp1-work-FearlessGallant)
-- Bogdan
+- [Bogdan](https://github.com/fdrHighSchool/mp1-work-Nervell)
 - [Harry W.](https://github.com/fdrHighSchool/mp1-work-Harryw14)
 - [Zhen Xin](https://github.com/fdrHighSchool/mp1-work-zhenxinzhangs)
