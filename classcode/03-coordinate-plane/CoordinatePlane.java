@@ -4,29 +4,42 @@ public class CoordinatePlane {
   public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
     String point1, point2;
+    boolean isValid;
+    do {
+      System.out.print("Please enter a point in the form (x, y): ");
+      // write a statement to store the input
+      point1 = s.nextLine();
 
-    System.out.print("Please enter a point in the form (x, y): ");
-    // write a statement to store the input
-    point1 = s.nextLine();
+      // check if the user input the point correctly
+      // if yes, continue code
+      // if no, get the input again
+      isValid = checkInput(point1);
+      if (isValid != true) {
+        System.out.println("Invalid entry!");
+      }
+    } while (isValid != true);
 
-    // check if the user input the point correctly
-    // if yes, continue code
-    // if no, get the input again
-    System.out.println(checkInput(point1));
+    do {
+      System.out.print("Please enter a second point: ");
+      // write a statement to store the input
+      point2 = s.nextLine();
 
-    System.out.print("Please enter a second point: ");
-    // write a statement to store the input
-    point2 = s.nextLine();
-
-    // check if the user input the point correctly
-    // if yes, continue code
-    // if no, get the input again
-    System.out.println(checkInput(point2));
+      // check if the user input the point correctly
+      // if yes, continue code
+      // if no, get the input again
+      isValid = checkInput(point2);
+      if (isValid != true) {
+        System.out.println("Invalid entry!");
+      }
+    } while (isValid != true);
 
     // test your methods below:
     int x1 = getX(point1);
     int x2 = getX(point2);
     System.out.println(x1 + " " + x2);
+    int y1 = getY(point1);
+    int y2 = getY(point2);
+    System.out.println(y1 + " " + y2);
 
   } // end main method
 
@@ -86,7 +99,16 @@ public class CoordinatePlane {
    * I: coordinate in the form (x, y) (String)
    * R: y-coordinate (int)
    */
+  public static int getY(String point) {
+    // determine where the comma is located
+    int spacePos = point.indexOf(" ");
 
+    // grab substring from after parentesis up to comma
+    String y = point.substring(spacePos + 1, point.length() - 1);
+
+    // return value back to main so it can be used later in the program
+    return Integer.parseInt(y);
+  } // end getX method
 
   /*
    * N: quadrant
